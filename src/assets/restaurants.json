@@ -1,0 +1,60 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "imageName": "Restorant_1",
+      "name": "Foody Corner",
+      "rating": "4.5",
+      "cuisine": "Beverages • Fast Food",
+      "location": "Pukhrayan",
+      "price": "800",
+      "distance": "2.5",
+      "offers": {
+        "main": "Flat 30% off on Online Orders",
+        "bank": "Up to 10% off with bank offers"
+      }
+    },
+    {
+      "id": 2,
+      "imageName": "Restorant_2",
+      "name": "The Royal Dine",
+      "rating": "4.1",
+      "cuisine": "Chinese • North Indian",
+      "location": "Pukhrayan",
+      "price": "500",
+      "distance": "3.5",
+      "offers": {
+        "main": "Flat 15% off on Online Orders",
+        "bank": "Up to 10% off with bank offers"
+      }
+    },
+    {
+      "id": 3,
+      "imageName": "Restorant_3",
+      "name": "Sapphire Sky Lounge",
+      "rating": "4.3",
+      "cuisine": "Continental • North Indian",
+      "location": "Pukhrayan",
+      "price": "800",
+      "distance": "2.7",
+      "offers": {
+        "main": "Flat 20% off on Online Orders",
+        "bank": "Up to 10% off with bank offers"
+      }
+    },
+    {
+      "id": 4,
+      "imageName": "Restorant_4",
+      "name": "The Food Factory",
+      "rating": "4.5",
+      "cuisine": "Multi-Cuisine",
+      "location": "Pukhrayan",
+      "price": "500",
+      "distance": "3.2",
+      "offers": {
+        "main": "Flat 25% off on Online Orders",
+        "bank": "Up to 15% off with bank offers"
+      }
+    }
+  ]
+}
