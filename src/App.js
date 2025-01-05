@@ -16,7 +16,7 @@ function App() {
         <main className="pb-16"> {/* Add padding to prevent content from being hidden behind nav */}
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/about" component={About } />
+            <Route path="/about" element={<About/> } />
             <Route path="/contact" element={<Contact />} /> 
             {/* Add other routes as needed */}
           </Routes>
