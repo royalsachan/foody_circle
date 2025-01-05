@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.207a156c.css",
+    "main.js": "/static/js/main.5c1f9cb0.js",
+    "static/media/Food_Vedio.mp4": "/static/media/Food_Vedio.17c9f51f914371465951.mp4",
+    "static/media/Restorant_2.jpg": "/static/media/Restorant_2.2f1cab15a748b0dcabea.jpg",
+    "static/media/food-delivery-man.jpg": "/static/media/food-delivery-man.5ba3b86ba4ef563d9577.jpg",
+    "static/media/Restorant_3.jpg": "/static/media/Restorant_3.4088bb6e03980544e5c7.jpg",
+    "static/media/Restorant_4.jpg": "/static/media/Restorant_4.554e25ba3acd6e92d51b.jpg",
+    "static/media/Restorant_1.jpg": "/static/media/Restorant_1.7b34c5499c47e2b9ded4.jpg",
+    "index.html": "/index.html",
+    "main.207a156c.css.map": "/static/css/main.207a156c.css.map",
+    "main.5c1f9cb0.js.map": "/static/js/main.5c1f9cb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.207a156c.css",
+    "static/js/main.5c1f9cb0.js"
+  ]
+}
